@@ -28,8 +28,11 @@ Comandos Linha terminal:
 
 ⚙️ Estrutura do Projeto
     Projeto está separado por pastas(FrontEnd e API)
+    
     1 pasta FrontEnd - contém a pasta page objects com as inspenções dos campos.
+    
     2 pasta Specs - contendo os testes a serem executados.
+    
     3 pasta API - divide-se em teste de validação da página API e realização de metódos POST e GET.
 
 
